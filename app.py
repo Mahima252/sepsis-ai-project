@@ -307,7 +307,7 @@ with c2:
 • Shortness of breath  
 • Confusion and weakness
 """)
-    st.image("causes.png")
+    st.image("symptoms.png")
 
 with c3:
     st.markdown("### Treatment")
